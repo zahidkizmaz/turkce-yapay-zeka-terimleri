@@ -259,6 +259,11 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki fonksi
 
 ÖNERİ: çok katmanlı algılayıcı
 
+## Non-max Suppression
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: Maksimum olmayanları bastırma
 
 ## padding 
 - [ ] TÜBA
